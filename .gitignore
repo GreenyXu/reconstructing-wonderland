@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# data
+data/raw/*
+data/cleaned/*
+data/processed/*
+
+# keep folder structure
+!data/raw/.gitkeep
+!data/cleaned/.gitkeep
+!data/processed/.gitkeep
+
+# Blender
+*.blend1
+
+# OS
+.DS_Store
+Thumbs.db
