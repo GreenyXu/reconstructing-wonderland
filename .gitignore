@@ -98,3 +98,17 @@ figures/*
 *.safetensors
 *.onnx
 *.zip
+
+# raw images (too large)
+data/raw/images/*
+!data/raw/images/.gitkeep
+
+# processed images
+data/processed/images/*
+!data/processed/images/.gitkeep
+
+outputs/generated_images/*
+!outputs/generated_images/.gitkeep
+
+data/processed/embeddings/*
+!data/processed/embeddings/.gitkeep
