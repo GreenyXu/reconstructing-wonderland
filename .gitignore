@@ -74,3 +74,6 @@ touchdesigner/final_pointcloud/audio/
 
 *.mp3
 *.wav
+
+*.blend
+*.blend1
