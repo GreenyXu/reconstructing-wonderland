@@ -173,8 +173,6 @@ Generated and processed outputs are documented in the notebooks and final report
 
 ## Conclusion
 
-## Conclusion
-
 This project explores how data can be used not only as input, but as a generative force in shaping visual and spatial narratives.
 
 Using *Alice’s Adventures in Wonderland* as a conceptual framework, the project translates literary themes, visual references, and sound data into a series of interconnected workflows. Rather than directly representing the original story, the system reinterprets Wonderland through data-driven transformations, where characters, objects and environments emerge through transformation, fragmentation, and recomposition.
