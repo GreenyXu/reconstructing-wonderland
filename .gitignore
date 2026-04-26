@@ -67,3 +67,10 @@ outputs/plots/
 # 临时文件
 # ======================
 structure.txt
+
+# large audio files
+data/raw/audio/
+touchdesigner/final_pointcloud/audio/
+
+*.mp3
+*.wav
